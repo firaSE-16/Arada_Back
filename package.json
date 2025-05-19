@@ -17,7 +17,11 @@
     "@mui/material": "^7.1.0",
     "axios": "^1.9.0",
     "bcrypt": "^5.1.1",
+<<<<<<< HEAD
     "bcryptjs": "^3.0.2",
+=======
+    "bcryptjs": "^2.4.3",
+>>>>>>> 5ab1a68d1cb81273ae9ded30f6ecdf81139aeccb
     "cloudinary": "^2.6.0",
     "cookie-parser": "^1.4.7",
     "cookieparser": "^0.1.0",
